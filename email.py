@@ -1,1 +1,1 @@
-print ("Email is verified")
+print "Email is verified"
